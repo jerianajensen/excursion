@@ -1,10 +1,12 @@
-html{
+body{
   background-color: black;
   font-family:Verdana;
   text-align: center;
 }
 h2{
   color: white;
+  font-weight: normal;
+  font-size: 50px
 }
 p{
   color: gray;
@@ -13,4 +15,12 @@ p{
 a href{
   color:aquamarine;
   font-size: 16px;
+}
+#guide #coming soon{
+  font-size: 42px;
+  font-weight: 300;
+}
+#footer{
+  text-align:right;
+  color: gray;
 }
