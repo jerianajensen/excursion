@@ -1,8 +1,16 @@
 html{
-  background: black;
+  background-color: black;
+  font-family:Verdana;
+  text-align: center;
 }
 h2{
-  font-family:Verdana;
   color: white;
-
+}
+p{
+  color: gray;
+  font-size: 21px;
+}
+a href{
+  color:aquamarine;
+  font-size: 16px;
 }
