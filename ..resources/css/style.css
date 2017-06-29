@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  font-family:Verdana;
+  text-align: center;
+}
+h2{
+  color: white;
+  font-weight: normal;
+  font-size: 50px
+}
+p{
+  color: gray;
+  font-size: 21px;
+}
+a href{
+  color:aquamarine;
+  font-size: 16px;
+}
+.footer {
+  text-align:right;
+  color: gray;
+}
