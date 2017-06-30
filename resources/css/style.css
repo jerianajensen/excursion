@@ -3,14 +3,12 @@ body{
   color:white;
   font-family:Verdana;
   text-align: center;
+  font-size: 50px;
 }
-h2.toptitle{
-
-}
-h2.midtitle, h2.bottomtitle{
+.midtitle, .bottomtitle{
   color: white;
-  font-weight: normal;
-  font-size: 50px
+  font-weight: 300;
+  font-size: 42px
 }
 p{
   color: gray;
@@ -22,7 +20,7 @@ p{
 }
 
 }
-h6.foot{
+.footer{
   text-align:right;
   color: gray;
 }
