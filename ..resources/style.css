@@ -16,11 +16,7 @@ a href{
   color:aquamarine;
   font-size: 16px;
 }
-#guide #coming soon{
-  font-size: 42px;
-  font-weight: 300;
-}
-#footer{
+.footer{
   text-align:right;
   color: gray;
 }
