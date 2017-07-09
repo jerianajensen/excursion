@@ -16,9 +16,10 @@ p{
   font-size: 21px;
   color: gray;
 }
-.cs {
-  font-size: 16px;
+.cs{
   color: aquamarine;
+  font-size: 16px;
+
 }
 .footer{
   color: gray;
